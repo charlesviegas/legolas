@@ -1,7 +1,7 @@
 {
   "name": "legolas",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Controlador do ciclo de vida da arquitetura extensível da arquitetura Elrond.",
   "authors": [
     "Charles viegas <charles.viegas@codate.com.br>"
