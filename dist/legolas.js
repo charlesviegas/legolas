@@ -125,6 +125,10 @@
                 modulo.config(config);
             });
 
+            _.each(component.filters, function (filter) {
+                modulo.filter(filter[0], filter[1]);
+            });
+
             _.each(component.directives, function (directive) {
                 modulo.directive(directive[0], directive[1]);
             });
